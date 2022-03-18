@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+# PicPro
+>>>>>>> 0c63c3e04e58fb0150d1e1cda2a10db2f404424c
 ## O projeto
 
 ### Estrutura de arquivos
@@ -19,12 +23,12 @@
 
 - Verde principal: #228664;
 - Verde principal escuro: #1F6F54;
-- Branco com transparência(borda cabeçalho): rgba(255, 255, 255, 0.4);
+- Branco com transparência (borda cabeçalho): rgba(255, 255, 255, 0.4);
 - Branco: #fff;
 - Preto: #000;
-- Preto com transparência(sombra e borda dos boxes): rgba(0, 0, 0, 0.15);
-- Cinza claro(fundo de input): #F4F4F4
-- Cinza claro 2(borda de input): #D2D2D2;
+- Preto com transparência (sombra e borda dos boxes): rgba(0, 0, 0, 0.15);
+- Cinza claro (fundo de input): #F4F4F4
+- Cinza claro 2 (borda de input): #D2D2D2
 
 ### Sombra
 
